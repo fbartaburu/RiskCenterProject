@@ -1,0 +1,15 @@
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\bin\Debug\RiskCenter.exe.config
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\bin\Debug\RiskCenter.exe
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\bin\Debug\RiskCenter.pdb
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.csproj.AssemblyReference.cache
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.Form1.resources
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.Properties.Resources.resources
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.csproj.GenerateResource.cache
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.csproj.CoreCompileInputs.cache
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.csproj.CopyComplete
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.exe
+C:\Users\andyb\OneDrive\Desktop\Proyectos\RiskCenter\obj\Debug\RiskCenter.pdb
